@@ -1,30 +1,28 @@
 {
 "About": {
-  "Name": "Robert J Zendejo",
+  "Name": "Eliab Alula",
   "Currently": "Computer Science Student",
   "Headshot": "student-portrait.png",
   "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
+  "AboutText": "I am a Computer Science student at Seattle Pacific University focused on improving my skills in C++ and data structures. I enjoy building programs that strengthen my understanding of problem-solving and software development."
 "Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
+  "Email": "alulae@spu.edu",
   "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
+  "LinkedIn": "https://github.com/eliabalula/eliabalula1.github.io",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+"ExperienceText": "I am currently a Computer Science student building a strong foundation in programming and problem solving. Through my coursework, I have worked with C++ to develop projects that focus on data structures, memory management, and algorithmic thinking. I am actively improving my skills by writing clean, efficient code and learning how to debug and test programs effectively.<br><br>I am focused on continuing to grow as a developer by gaining hands-on experience and applying what I learn to real-world projects.",
+"School": "Seattle Pacific University",
+"Major": "Computer Science",
+"Graduation": "June 2027",
+"EducationText": "My studies focus on core computer science concepts such as data structures, algorithms, and software development. I have completed coursework in problem solving and programming as well as multiple data structures courses, where I developed projects using C++ and strengthened my understanding of how software is built and optimized.",
+"Employment": "Student",
+"Role": "Computer Science Student",
+"EmploymentText": "I am currently focused on my academic work and personal projects to build a strong technical foundation. I regularly practice coding, work on programming assignments, and develop projects that improve my understanding of software development and problem solving.",
+"Skills": ["C++", "Python", "Git", "VS Code", "CLion"],
+"SkillsText": "I have experience working with C++ to build programs that involve data structures and memory management. I am comfortable using development tools such as Git and modern IDEs, and I am continuously improving my problem-solving and debugging skills through practice and coursework.",
+"Resume": "Content/student-resume.pdf"
 },
 "Project1": {
     "Title": "Interesting Project 1",
