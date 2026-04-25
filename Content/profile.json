@@ -2,12 +2,12 @@
 "About": {
   "Name": "Eliab Alula",
   "Currently": "Computer Science Student",
-  "Headshot": "Content/student_portrait.png",
-  "Thumbnail": "Content/student-logo.webp",
+  "Headshot": "student_portrait.png",
+  "Thumbnail": "student-logo.webp",
   "AboutText": "I am a Computer Science student at Seattle Pacific University focused on improving my skills in C++ and data structures. I enjoy building programs that strengthen my understanding of problem-solving and software development."
 },
 "Contact": {
-  "Email": "alulae@spu.edu",
+  "EMail": "alulae@spu.edu",
   "Portfolio": "https://www.github.com",
   "LinkedIn": "https://github.com/eliabalula/eliabalula1.github.io",
   "GitHub": "https://www.github.com"
