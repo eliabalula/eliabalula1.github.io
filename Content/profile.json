@@ -23,7 +23,7 @@
 "EmploymentText": "I am currently focused on my academic work and personal projects to build a strong technical foundation. I regularly practice coding, work on programming assignments, and develop projects that improve my understanding of software development and problem solving.",
 "Skills": ["C++", "Python", "Git", "VS Code", "CLion"],
 "SkillsText": "I have experience working with C++ to build programs that involve data structures and memory management. I am comfortable using development tools such as Git and modern IDEs, and I am continuously improving my problem-solving and debugging skills through practice and coursework.",
-"Resume": "Content/student-resume.pdf"
+"Resume": "student-resume.pdf"  
 },
 "Project1": {
     "Title": "Interesting Project 1",
