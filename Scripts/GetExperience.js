@@ -35,8 +35,8 @@ function updateHTML(configData) {
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
   document.querySelector("#pfResume").onclick = () => {
-    let url = "./Content/".concat(configData.Experience.Resume);
-    window.open(url, "_blank");
+     let url = configData.Experience.Resume;    
+     window.open(url, "_blank");
   }
 
 }
