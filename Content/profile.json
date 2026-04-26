@@ -2,8 +2,8 @@
 "About": {
   "Name": "Eliab Alula",
   "Currently": "Computer Science Student",
-  "Headshot": "Content/student_portrait.png",
-  "Thumbnail": "Content/student.logo.png",  
+  "Headshot": "student_portrait.png",
+  "Thumbnail": "student.logo.png",  
   "AboutText": "I am a Computer Science student at Seattle Pacific University focused on improving my skills in C++ and data structures. I enjoy building programs that strengthen my understanding of problem-solving and software development."
 },
 "Contact": {
@@ -23,27 +23,27 @@
 "EmploymentText": "I am currently focused on my academic work and personal projects to build a strong technical foundation. I regularly practice coding, work on programming assignments, and develop projects that improve my understanding of software development and problem solving.",
 "Skills": ["C++", "Python", "Git", "VS Code", "CLion"],
 "SkillsText": "I have experience working with C++ to build programs that involve data structures and memory management. I am comfortable using development tools such as Git and modern IDEs, and I am continuously improving my problem-solving and debugging skills through practice and coursework.",
-"Resume": "Content/student-resume.pdf"  
+"Resume": "student-resume.pdf"  
 },
 "Project1": {
     "Title": "Polynomial Class (C++)",
     "Desc": "Built a polynomial class in C++ that supports basic mathematical operations using dynamic memory and structured programming.",
     "GitHubRepo": "https://github.com/csc2431-spring2026/lab-0-polynomial-eliabalula",
-    "MainImage": "Content/P1Main.png",
-    "DetailImages": ["Content/P1Detail1.png","Content/P1Detail2.png","Content/P1Detail3.png"]
+    "MainImage": "P1Main.png",
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
     "Title": "Polygon ADT (C++)",
     "Desc": "Implemented a C++ program using object-oriented programming and STL containers to perform geometric calculations.",
     "GitHubRepo": "https://github.com/csc2431-spring2026/lab-1-polygon-eliabalula",
-    "MainImage": "Content/P2Main.png",
-    "DetailImages": ["Content/P2Detail1.png","Content/P2Detail2.png","Content/P2Detail3.png","Content/P2Detail4.png"]
+    "MainImage": "P2Main.png",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
   },
   "Project3": {
     "Title": "Student Grade Management System",
     "Desc": "Developed a C++ application to manage and store student records using files.",
     "GitHubRepo": "https://github.com/eliabalula/Student-Grade-Management-System",
-    "MainImage": "Content/P3Main.png",
+    "MainImage": "P3Main.png",
     "DetailImages": []
   },
   "Project4": {
