@@ -46,11 +46,11 @@
     "MainImage": "Content/P3Main.png",
     "DetailImages": []
   },
-  "Project4": "Test" {
-  "Title": "test",
+  "Project4": {
+  "Title": "project 4 test",
   "Desc": "test",
-  "GitHubRepo": "",
+  "GitHubRepo": "https://github.com/eliabalula/Student-Grade-Management-System",
   "MainImage": "",
   "DetailImages": []
-},
+}
  
