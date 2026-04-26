@@ -45,5 +45,12 @@
     "GitHubRepo": "https://github.com/eliabalula/Student-Grade-Management-System",
     "MainImage": "Content/P3Main.png",
     "DetailImages": []
-  }
+  };
+  "Project4": "Test" {
+  "Title": "test",
+  "Desc": "test",
+  "GitHubRepo": "",
+  "MainImage": "",
+  "DetailImages": []
+}
  
