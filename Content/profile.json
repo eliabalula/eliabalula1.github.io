@@ -33,11 +33,11 @@
     "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
   },
   "Project2": {
-    "Title": "Polygon ADT (C++)",
-    "Desc": "Implemented a C++ program using object-oriented programming and STL containers to perform geometric calculations.",
+    "Title": "Typing Speed Test",
+    "Desc": "Developed an interactive C++ typing speed test that measures words per minute, typing accuracy, and completion time using timers and string processing.",
     "GitHubRepo": "https://github.com/csc2431-spring2026/lab-1-polygon-eliabalula",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "MainImage": "typing speed test.jpg",
+    "DetailImages": []
   },
   "Project3": {
     "Title": "Student Grade Management System",
