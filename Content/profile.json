@@ -47,9 +47,9 @@
     "DetailImages": []
   },
   "Project4": {
-  "Title": "",
-  "Desc": "",
-  "GitHubRepo": "",
+  "Title": "Task Manager",
+  "Desc": "C++ application that's able to manage tasks with features such as adding, updating, deleting, sorting, and saving records.",
+  "GitHubRepo": "https://github.com/eliabalula/Student-Grade-Management-System",",
   "MainImage": "",
   "DetailImages": []
 }
