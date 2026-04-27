@@ -1,2 +1,3 @@
-# SPU_ECS_Template
-Templating system for creating an Portfolio Site on GitHub Pages
+More info on me ↓
+
+Link: https://eliabalula.github.io/eliabalula1.github.io/index.html
