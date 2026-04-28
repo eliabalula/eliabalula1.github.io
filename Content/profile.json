@@ -4,7 +4,7 @@
   "Currently": "Computer Science Student",
   "Headshot": "student_portrait.png",
   "Thumbnail": "screenshotOfme4.jpg",  
-  "AboutText": "I am a Computer Science student at Seattle Pacific University with an interest in software development and problem-solving. Through my coursework and personal projects, I have gained experience in C++, data structures, and programming fundamentals. I enjoy building programs that help me improve my technical skills while continuing to learn more about how software is designed and developed."
+  "AboutText": "I am a Computer Science student at Seattle Pacific University with an interest in software development and problem-solving. Through my coursework and personal projects, I have gained experience in C++, data structures, and programming fundamentals. I enjoy building programs that help me improve my technical skills while continuing to learn more about how software is designed and developed.<br><br>I am motivated to continue growing as a developer by taking on new challenges and expanding my knowledge in programming. My goal is to apply what I learn through hands-on projects and gain experience creating efficient, reliable, and practical software solutions."
 },
 "Contact": {
   "EMail": "alulae@spu.edu",
